@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title"></span></title>
+   <topic href="topics/concept/what_is_mediterranean_cuisine_style.html" data-id="concept_oyk_vgr_rjb">
+      <title>What is Mediterranean Cuisine style?</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Mediterranean cuisine is the foods and methods of preparation by people of the Mediterranean
+            Basin region.
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="topics/reference/Countries%20with%20Miditerranean%20Cuisine.html" data-id="reference_ern_jhr_rjb">
+         <title>Countries with Mediterranean Cuisine</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">This is a list of countries with Mediterranean Cuisine</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="topics/concept/Greece.html" collection-type="family" data-id="concept_fx4_hkr_rjb">
+      <title>Greece</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Greek cuisine (Greek: Ελληνική κουζίνα, romanized: Elliniki kouzina) is a Mediterranean
+            cuisine.
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="topics/task/greek_salad.html" data-id="task_bsp_lnr_rjb">
+         <title>Greek Salad</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">How to prepare an authentic Greek Salad</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="topics/task/making_greek_yoghurt.html" data-id="task_bcx_vnr_rjb">
+         <title>Making Greek Yoghurt</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"></p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="topics/concept/Italy.html" collection-type="sequence" data-id="concept_fx4_hkr_rjb">
+      <title>Italy</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Italy is the graciously beautiful country known for its rich heritage, culture, art,
+            and let’s not forget its most relished and cherished food varieties. 
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="topics/task/Italian_meatballs.html" data-id="task_uwb_ykr_rjb">
+         <title>Making Italian Meatballs</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">How to make Italian Meatballs with authentic tomato sauce</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="topics/task/Italian_tomato_sauce.html" data-id="task_lmd_xmr_rjb">
+         <title>Making Italian Tomato Sauce</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">This is how to make a delicious authentic Italian Tomato Sauce</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+</toc>

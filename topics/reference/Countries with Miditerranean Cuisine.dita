@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ern_jhr_rjb">
+    <title>Countries with Mediterranean Cuisine</title>
+    <shortdesc>This is a list of countries with Mediterranean Cuisine</shortdesc>
+    <refbody> 
+        <table>
+            <tgroup cols="2">
+                <thead>
+                    <row rowsep="1">
+                        <entry colsep="1">Country</entry>
+                        <entry colsep="1">Food</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">Greece</entry>
+                        <entry  rowsep="1">Authentic Greek Salad</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Armenia</entry>
+                        <entry  rowsep="1">Armenian Losh Kebab</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Crete </entry>
+                        <entry  rowsep="1">Black Eyed Peas with Fresh Dill</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Egypt </entry>
+                        <entry  rowsep="1">Egyptian Lentils with Rice and Pasta</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Turkey</entry>
+                        <entry  rowsep="1">Eggplant, Lentils, and Peppers </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">Spain</entry>
+                        <entry  rowsep="1">Tortilla Española</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Morocco</entry>
+                        <entry  rowsep="1">Shakshuka</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Greece</entry>
+                        <entry  rowsep="1">Baked Vegetables in Olive Oil </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Italy</entry>
+                        <entry  rowsep="1" colsep="1">>Eggplant Parmesan with Prosciutto</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Lebanon </entry>
+                        <entry  rowsep="1">Lebanese Bulgur and Parsley Salad</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry  rowsep="1" colsep="1">>Italy</entry>
+                        <entry  rowsep="1">Beef Cacciatore</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

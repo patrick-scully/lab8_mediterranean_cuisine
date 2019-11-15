@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_oyk_vgr_rjb"
+               path="topics/concept/what_is_mediterranean_cuisine_style.html"/>
+   <appContext helpID="reference_ern_jhr_rjb"
+               path="topics/reference/Countries%20with%20Miditerranean%20Cuisine.html"/>
+   <appContext helpID="concept_fx4_hkr_rjb" path="topics/concept/Greece.html"/>
+   <appContext helpID="task_bsp_lnr_rjb" path="topics/task/greek_salad.html"/>
+   <appContext helpID="task_bcx_vnr_rjb" path="topics/task/making_greek_yoghurt.html"/>
+   <appContext helpID="concept_fx4_hkr_rjb" path="topics/concept/Italy.html"/>
+   <appContext helpID="task_uwb_ykr_rjb" path="topics/task/Italian_meatballs.html"/>
+   <appContext helpID="task_lmd_xmr_rjb" path="topics/task/Italian_tomato_sauce.html"/>
+   <appContext helpID="concept_oyk_vgr_rjb"
+               path="topics/concept/what_is_mediterranean_cuisine_style.html"/>
+   <appContext helpID="concept_fx4_hkr_rjb" path="topics/concept/Greece.html"/>
+   <appContext helpID="concept_fx4_hkr_rjb" path="topics/concept/Italy.html"/>
+   <appContext helpID="concept_fx4_hkr_rjb" path="topics/concept/Italy.html"/>
+   <appContext helpID="task_uwb_ykr_rjb" path="topics/task/Italian_meatballs.html"/>
+   <appContext helpID="task_lmd_xmr_rjb" path="topics/task/Italian_tomato_sauce.html"/>
+   <appContext helpID="concept_fx4_hkr_rjb" path="topics/concept/Greece.html"/>
+   <appContext helpID="task_bsp_lnr_rjb" path="topics/task/greek_salad.html"/>
+   <appContext helpID="task_bcx_vnr_rjb" path="topics/task/making_greek_yoghurt.html"/>
+   <appContext helpID="B" path="topics/glossary/Glossary.html#B"/>
+   <appContext helpID="C" path="topics/glossary/Glossary.html#C"/>
+   <appContext helpID="E" path="topics/glossary/Glossary.html#E"/>
+   <appContext helpID="H" path="topics/glossary/Glossary.html#H"/>
+   <appContext helpID="O" path="topics/glossary/Glossary.html#O"/>
+   <appContext helpID="P" path="topics/glossary/Glossary.html#P"/>
+   <appContext helpID="S" path="topics/glossary/Glossary.html#S"/>
+   <appContext helpID="T" path="topics/glossary/Glossary.html#T"/>
+</map>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\patscully\Desktop\My Stuff\workspace\publication\mediterranean_cuisine\temp\webhelp\topics\task?><?workdir-uri file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/temp/webhelp/topics/task/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_bsp_lnr_rjb" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="task:1;3:29">
+    <title class="- topic/title " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="title:1;4:12">Greek Salad</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="shortdesc:1;5:16">How to prepare an authentic Greek Salad</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="prereq:1;7:17">
+            <p class="- topic/p " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="p:1;8:16">Prepare the following ingredients before you begin</p>
+            <sl class="- topic/sl " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sl:1;9:17">
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:1;10:22">4 large vine tomatoes, cut into irregular wedges</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:2;11:22">1 cucumber, peeled, deseeded, then roughly chopped</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:3;12:22">½ a red onion, thinly sliced</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:4;13:22">16 Kalamata olives</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:5;14:22">1 tsp dried oregano</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:6;15:22">85g feta cheese, cut into chunks (barrel matured feta is the best)</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="sli:7;16:22">4 tbsp Greek extra virgin olive oil</sli>
+                      </sl>
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="context:1;19:18">
+            <image href="../../resources/images/greek_salad.jpg" id="salad" width="500" placement="inline" class="- topic/image " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="image:1;20:89"/>
+            <p class="- topic/p " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="p:2;21:16">Follow these steps to make a delicious salad</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="steps:1;23:16">
+            <step conkeyref="knives/" class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="step:1;24:39">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="cmd:1;25:22">Place 4 large vine tomatoes, cut into wedges, 1 peeled, deseeded and chopped cucumber, ½ a thinly sliced red onion, 16 Kalamata olives, 1 tsp dried oregano, 85g feta cheese chunks and 4 tbsp Greek extra virgin olive oil in a large bowl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="step:2;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/greek_salad.dita" xtrc="cmd:2;28:22">Lightly season, then serve with crusty bread to mop up all of the juices.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

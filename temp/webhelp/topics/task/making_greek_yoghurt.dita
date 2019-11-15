@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\patscully\Desktop\My Stuff\workspace\publication\mediterranean_cuisine\temp\webhelp\topics\task?><?workdir-uri file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/temp/webhelp/topics/task/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_bcx_vnr_rjb" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="task:1;3:29">
+    <title class="- topic/title " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="title:1;4:12">Making Greek Yoghurt</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="prereq:1;7:17">
+            <p class="- topic/p " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="p:1;8:16">Prepare the following items before you begin</p>
+            <sl class="- topic/sl " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="sl:1;9:17">
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="sli:1;10:22">Greek Yogurt Starter Culture</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="sli:2;11:22">Milk</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="sli:3;12:22">Yogurt Maker or Other Appliance</sli>
+            </sl>
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="context:1;15:18">
+            <image href="../../resources/images/greek_yogurt.jpg" id="yoghurt" width="500" placement="inline" class="- topic/image " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="image:1;16:93"/>
+            <p class="- topic/p " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="p:2;17:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="steps:1;19:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:1;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:1;21:22">Slowly heat 1 quart of pasteurized milk to 160°F. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:2;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:2;24:22">Remove the milk from the heat and allow to cool to 110°F.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:3;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:3;27:22">Add 1 packet of starter culture and mix well.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:4;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:4;30:22">Pour milk into containers, cover the mixture, and incubate it at 110°F for 5-12 hours in a yogurt maker or similar appliance.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:5;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:5;33:22">Check after 5 hours to see if it has set. If it has not set, leave it for up to 12 hours, checking every 30-60 minutes. Once it has set, or at the end of 12 hours, turn off the yogurt maker, cover the yogurt and allow it to cool for 2 hours.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:6;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:6;36:22">Refrigerate the yogurt for at least 6 hours. You can eat it at any time (refrigerating helps set the yogurt).</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="step:7;38:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/making_greek_yoghurt.dita" xtrc="cmd:7;39:22">Don’t forget to save 2-3 Tbsp. for culturing the next batch!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

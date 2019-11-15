@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_uwb_ykr_rjb">
+    <title>Making Italian Meatballs</title>
+    <shortdesc>How to make Italian Meatballs with authentic tomato sauce</shortdesc>
+   
+    <taskbody>
+       
+        <prereq>
+            <p>Prepare your ingredients</p>
+            <sl>
+                <sli>3 tbsp. fine white breadcrumbs</sli>
+                <sli>A little milk, to soak</sli>
+                <sli>2 tbsp. olive oil</sli>
+                <sli>2 shallots, peeled and finely diced</sli>
+                <sli>2 garlic cloves, chopped</sli>
+                <sli>red chilli, finely sliced</sli>
+                <sli>Splash of white wine</sli>
+                <sli>2 x 400g tins chopped tomatoes</sli>
+                <sli>Small bunch of basil</sli>
+                <sli>1 tbsp. chopped oregano</sli>
+                <sli>Sea salt and freshly ground black pepper</sli>
+                <sli>2 tbsp. pitted green olives, drained (optional)</sli>
+                <sli>200 g minced beef</sli>
+                <sli>200 g minced pork</sli>
+                <sli>3 garlic cloves, peeled and halved</sli>
+                <sli>bunch of flat leaf parsley</sli>
+                <sli>2 tbsp. freshly grated Parmesan, plus extra to serve</sli>
+                <sli>Flour, to dust></sli>
+                    <sli>1 tbsp. olive oil</sli>
+            </sl>
+        </prereq>
+      <context>
+          <image href="../../resources/images/italian_meatballs.jpg" id="meatballs" width="500" align="left"></image>
+          <p>Follow the directions below:</p>
+          <hazardstatement conkeyref="safety/potholders">
+              <messagepanel>
+                  <typeofhazard></typeofhazard>
+                  <howtoavoid></howtoavoid>
+              </messagepanel>
+          </hazardstatement>
+          
+         
+      </context>
+        
+     
+                        
+        
+        <steps>
+      
+            <step>
+                <cmd>Tip the breadcrumbs into a bowl, pour on just enough milk to cover and set aside to soak. </cmd>
+            </step>
+            <step>
+                <cmd>Heat the oven to 180°C/350°F/gas mark 4.</cmd>
+              
+            </step>
+            <step>
+                <cmd>To make the tomato sauce, heat the olive oil in a pan and gently fry the shallots, garlic and chilli for 2-3 minutes until soft.</cmd>
+            </step>
+            <step>
+                <cmd>Deglaze the pan with a splash of white wine, then add the tinned tomatoes along with the basil, oregano and some seasoning.</cmd>
+            </step>
+            <step>
+                <cmd>Throw in the olives if using and let the sauce simmer for 5-10 minutes to reduce and thicken.
+                </cmd>
+            </step>
+            <step>
+                <cmd>While the tomato sauce is cooking, prepare the meatballs</cmd>
+            </step>
+            <step>
+                <cmd>Put the minced beef and pork into a large bowl and add the garlic, parsley and Parmesan. </cmd>
+            </step>
+            <step>
+                <cmd>Squeeze the breadcrumbs to remove excess milk, then add to the bowl. </cmd>
+            </step>
+            <step>
+                <cmd>Mix well, using your hands, and season with salt and pepper.</cmd>
+            </step>
+            <step>
+                <cmd>Shape the mixture into balls, the size of a walnut, and dust in flour.</cmd>
+            </step>
+            <step>
+                <cmd>
+                  Heat the olive oil in a large frying pan. When hot, fry the meatballs, in batches if necessary, until golden.
+                  
+                </cmd>
+            </step>
+            <step>
+                <cmd>Add the meatballs to the tomato sauce and then transfer to an ovenproof dish. Bake in the oven for 10 minutes. Discard the basil. Serve with salad on the side.</cmd>
+            </step>
+        </steps>
+        
+    </taskbody>
+</task>

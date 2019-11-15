@@ -1,0 +1,10 @@
+fil = new Array();
+fil["0"]= "topics/concept/Greece.html@@@Greece@@@Greek cuisine (Greek: \u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AE \u03BA\u03BF\u03C5\u03B6\u03AF\u03BD\u03B1, romanized: Elliniki kouzina) is a Mediterranean cuisine...";
+fil["1"]= "topics/concept/Italy.html@@@Italy@@@Italy is the graciously beautiful country known for its rich heritage, culture, art, and let\u2019s not forget its most relished and cherished food varieties...";
+fil["2"]= "topics/concept/what_is_mediterranean_cuisine_style.html@@@What is Mediterranean Cuisine style?@@@Mediterranean cuisine is the foods and methods of preparation by people of the Mediterranean Basin region...";
+fil["3"]= "topics/reference/Countries with Miditerranean Cuisine.html@@@Countries with Mediterranean Cuisine@@@This is a list of countries with Mediterranean Cuisine...";
+fil["4"]= "topics/task/Italian_meatballs.html@@@Making Italian Meatballs@@@How to make Italian Meatballs with authentic tomato sauce...";
+fil["5"]= "topics/task/Italian_tomato_sauce.html@@@Making Italian Tomato Sauce@@@This is how to make a delicious authentic Italian Tomato Sauce...";
+fil["6"]= "topics/task/greek_salad.html@@@Greek Salad@@@How to prepare an authentic Greek Salad...";
+fil["7"]= "topics/task/making_greek_yoghurt.html@@@Making Greek Yoghurt@@@Prepare the following items before you begin Greek Yogurt Starter Culture Milk Yogurt Maker or Other Appliance Slowly heat 1 quart of pasteurized milk to 160\u00B0F. Remove the milk from the heat and allow...";
+var doStem = false;searchLoaded = true;

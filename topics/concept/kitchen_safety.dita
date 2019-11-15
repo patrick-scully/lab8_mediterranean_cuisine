@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gtr_h4r_rjb">
+    <title>Kitchen safety</title>
+    <shortdesc>Make sure you stay safe in the kitchen</shortdesc>
+    <conbody>
+        <p>Kitchen safty is paramount. Please follow all the following safety tips. </p>
+        <hazardstatement id="knives">
+      <messagepanel>
+          <typeofhazard >Knives</typeofhazard>
+          <howtoavoid>Store knives in a wooden block or in a drawer. Make sure the knives are out of the reach of children. Follow these knife safety tips to prevent injury.</howtoavoid>
+      </messagepanel>
+  </hazardstatement>  
+        <hazardstatement id="clothing">
+            <messagepanel>
+                <typeofhazard>Clothing</typeofhazard>
+                <howtoavoid>Never cook in loose clothes and keep long hair tied back. You don’t want anything accidentally catching fire (not to mention hair ending up in the food!).</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement id="jewellery">
+            <messagepanel>
+                <typeofhazard>Jewellery</typeofhazard>
+                <howtoavoid>Never cook while wearing dangling jewelry. A bracelet can get tangled around pot handles.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement id="potholders">
+            <messagepanel>
+                <typeofhazard>Potholders</typeofhazard>
+                <howtoavoid>Keep potholders nearby and use them! Be careful not to leave them near an open flame.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement id="pot_handles">
+            <messagepanel>
+                <typeofhazard>Pot handles</typeofhazard>
+                <howtoavoid>Turn pot handles away from the front of the stove. Children can’t grab them, and adults can’t bump into them if they’re out of the way.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement id="contamination">
+            <messagepanel>
+                <typeofhazard>Contamination</typeofhazard>
+                <howtoavoid>Don’t let temperature-sensitive foods sit out in the kitchen. Raw meat, fish, and certain dairy products can spoil quickly, so refrigerate or freeze them right away.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement id="spills">
+            <messagepanel>
+                <typeofhazard>Spills</typeofhazard>
+                <howtoavoid>Wipe up spills immediately. Keep the floor dry so that no one slips and falls.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement id="raw_meat">
+            <messagepanel>
+                <typeofhazard>Raw meat</typeofhazard>
+                <howtoavoid>Separate raw meat and poultry from other items whenever you use or store them. This precaution avoids cross-contamination of harmful bacteria from one food to another.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement>
+            <messagepanel>
+                <typeofhazard conkeyref="hygeine">Hygeine</typeofhazard>
+                <howtoavoid>Wash your hands before handling food and after handling meat or poultry. Hands can be a virtual freight train of bacteria.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        
+    </conbody>
+    
+</concept>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bcx_vnr_rjb">
+    <title>Making Greek Yoghurt</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Prepare the following items before you begin</p>
+            <sl>
+                <sli>Greek Yogurt Starter Culture</sli>
+                <sli>Milk</sli>
+                <sli>Yogurt Maker or Other Appliance</sli>
+            </sl>
+        </prereq>
+        <context>
+            <image href="../../resources/images/greek_yogurt.jpg" id="yoghurt"  width="500"></image>
+            <hazardstatement conkeyref="safety/spills">
+                <messagepanel>
+                    <typeofhazard></typeofhazard>
+                    <howtoavoid></howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Slowly heat 1 quart of pasteurized milk to 160°F. </cmd>
+            </step>
+            <step>
+                <cmd>Remove the milk from the heat and allow to cool to 110°F.</cmd>
+            </step>
+            <step>
+                <cmd>Add 1 packet of starter culture and mix well.</cmd>
+            </step>
+            <step>
+                <cmd>Pour milk into containers, cover the mixture, and incubate it at 110°F for 5-12 hours in a yogurt maker or similar appliance.</cmd>
+            </step>
+            <step>
+                <cmd>Check after 5 hours to see if it has set. If it has not set, leave it for up to 12 hours, checking every 30-60 minutes. Once it has set, or at the end of 12 hours, turn off the yogurt maker, cover the yogurt and allow it to cool for 2 hours.</cmd>
+            </step>
+            <step>
+                <cmd>Refrigerate the yogurt for at least 6 hours. You can eat it at any time (refrigerating helps set the yogurt).</cmd>
+            </step>
+            <step>
+                <cmd>Don’t forget to save 2-3 Tbsp. for culturing the next batch!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

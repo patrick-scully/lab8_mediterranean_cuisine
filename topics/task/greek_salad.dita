@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bsp_lnr_rjb">
+    <title>Greek Salad</title>
+    <shortdesc>How to prepare an authentic Greek Salad</shortdesc>
+    <taskbody>
+        
+        <prereq>
+            <p>Prepare the following ingredients before you begin</p>
+         
+            <sl>
+                <sli>4 large vine tomatoes, cut into irregular wedges</sli>
+                <sli>1 cucumber, peeled, deseeded, then roughly chopped</sli>
+                <sli>½ a red onion, thinly sliced</sli>
+                <sli>16 Kalamata olives</sli>
+                <sli>1 tsp dried oregano</sli>
+                <sli>85g feta cheese, cut into chunks (barrel matured feta is the best)</sli>
+                <sli>4 tbsp Greek extra virgin olive oil</sli>
+                      </sl>
+        </prereq>
+        <context>
+            <image href="../../resources/images/greek_salad.jpg" id="salad" width="500"></image>
+            <hazardstatement conkeyref="safety/knives">
+                <messagepanel>
+                    <typeofhazard></typeofhazard>
+                    <howtoavoid></howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+            
+        </context>
+        <steps>
+            <step>
+                <cmd>Place 4 large vine tomatoes, cut into wedges, 1 peeled,
+                    deseeded and chopped cucumber, ½ a thinly sliced red onion, 16 Kalamata olives,
+                    1 tsp dried oregano, 85g feta cheese chunks and 4 tbsp Greek extra virgin olive
+                    oil in a large bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Lightly season, then serve with crusty bread to mop up all of the juices.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\patscully\Desktop\My Stuff\workspace\publication\mediterranean_cuisine\temp\webhelp\topics\task?><?workdir-uri file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/temp/webhelp/topics/task/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_lmd_xmr_rjb" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="task:1;3:29">
+    <title class="- topic/title " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="title:1;4:12">Making Italian Tomato Sauce</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="shortdesc:1;5:16">This is how to make a delicious authentic Italian Tomato Sauce</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="prereq:1;7:17">
+            <p class="- topic/p " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="p:1;8:16">Prepare your ingredients before you begin</p>
+            <sl class="- topic/sl " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sl:1;9:17">
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:1;10:22">3 Large Cloves of Garlic Finely chopped
+               </sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:2;12:22">1 Medium Onion, Diced</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:3;13:22">2 - 3 Tbsp Extra Virgin Olive Oil,</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:4;14:22">2 Tins Diced Tomatoes/ 10 Diced Tomatoes,</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:5;15:22">175ml Red Wine,</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:6;16:22">Handful Fresh Basil, Finely Chopped, If dried 1 Tbsp,</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:7;17:22">Handful Fresh Oregano, Finely Chopped, If dried 1 Tbsp,</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:8;18:22">2 Bay leaves,</sli>
+                <sli class="- topic/sli " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="sli:9;19:22">2 Tbsp Tomato Puree,</sli>
+            </sl>
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="context:1;22:18">
+            <image href="../../resources/images/italian_tomate_sauce.jpg" id="sauce" width="500" placement="inline" class="- topic/image " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="image:1;23:98"/>
+            <p class="- topic/p " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="p:2;24:16">Prepare your sauce as follows:</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="steps:1;26:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="step:1;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="cmd:1;28:22">Heat the Olive oil in a Large frying pan/Skillet until very hot.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="step:2;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="cmd:2;31:22">Add onions and stir until soft and slightly brown.Turn down the heat and add the garlic and Red wine. Leave for 1-2 mins.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="step:3;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="cmd:3;34:22">Add tomatoes, basil, oregano, and bay leaves, turn the heat down and leave to simmer for approx 5 mins stirring occasionally. If using fresh tomatoes allow them to reduce slowly, this will take approx 20 mins.
+                </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="step:4;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="cmd:4;38:22">Once mixture has simmered add puree and stir in, simmer for a further 5 mins.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="step:5;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/patscully/Desktop/My%20Stuff/workspace/publication/mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita" xtrc="cmd:5;41:22">Remove from the heat and cool. Sauce can be refrigerated for use later on, If using for Pizza topping use a blender until smooth and spread on pizza using the back of a spoon. If using for bolognese, brown mince and add when ready.
+                </cmd>
+            </step>
+           
+        </steps>
+    </taskbody>
+</task>

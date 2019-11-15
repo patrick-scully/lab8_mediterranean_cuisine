@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <mapref href="secondmap.ditamap" format="ditamap"/>
+    <topicref href="topics/concept/what_is_mediterranean_cuisine_style.dita">
+        <topicref href="topics/reference/Countries%20with%20Miditerranean%20Cuisine.dita"/>
+    </topicref>
+    <topicref href="topics/concept/Greece.dita" collection-type="family">
+        <topicref href="topics/task/greek_salad.dita"/>
+        <topicref href="topics/task/making_greek_yoghurt.dita"/>
+    </topicref>
+    <topicref href="topics/concept/Italy.dita" collection-type="sequence">
+        <topicref href="topics/task/Italian_meatballs.dita"/>
+        <topicref href="topics/task/Italian_tomato_sauce.dita"/>
+    </topicref>
+    <reltable>
+        <relrow>
+            <relcell >
+                <topicref href="topics/concept/what_is_mediterranean_cuisine_style.dita"></topicref>
+            </relcell>
+            <relcell >
+                <topicref href="topics/concept/Greece.dita"></topicref>
+            </relcell>
+            <relcell >
+                <topicref href="topics/concept/Italy.dita"></topicref>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell >
+                <topicref href="../mediterranean_cuisine/topics/concept/Italy.dita"></topicref>
+            </relcell>
+            <relcell >
+                <topicref href="../mediterranean_cuisine/topics/task/Italian_meatballs.dita"></topicref>
+            </relcell>
+            <relcell >
+                <topicref href="../mediterranean_cuisine/topics/task/Italian_tomato_sauce.dita"></topicref>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell >
+                <topicref href="../mediterranean_cuisine/topics/concept/Greece.dita"></topicref>
+            </relcell>
+            <relcell >
+                <topicref href="../mediterranean_cuisine/topics/task/greek_salad.dita"></topicref>
+            </relcell>
+            <relcell >
+                <topicref href="../mediterranean_cuisine/topics/task/making_greek_yoghurt.dita"></topicref>
+            </relcell>
+        </relrow>
+    </reltable>
+    
+ 
+ 
+    <topichead navtitle="Glossary">
+        <topicref  navtitle="B" href="topics/glossary/Glossary.dita#B"/>
+        <topicref navtitle="C" href="topics/glossary/Glossary.dita#C"/>
+            <topicref navtitle="E" href="topics/glossary/Glossary.dita#E"/>
+                <topicref navtitle="H" href="topics/glossary/Glossary.dita#H"/>
+                    <topicref navtitle="O" href="topics/glossary/Glossary.dita#O"/>
+        <topicref navtitle="P" href="topics/glossary/Glossary.dita#P"/>
+        <topicref navtitle="S" href="topics/glossary/Glossary.dita#S"/>
+        <topicref navtitle="T" href="topics/glossary/Glossary.dita#T"/>
+        
+    </topichead>
+    
+  
+</map>

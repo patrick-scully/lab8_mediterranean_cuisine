@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lmd_xmr_rjb">
+    <title>Making Italian Tomato Sauce</title>
+    <shortdesc>This is how to make a delicious authentic Italian Tomato Sauce</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Prepare your ingredients before you begin</p>
+            <sl>
+                <sli>3 Large Cloves of Garlic Finely chopped
+               </sli>
+                <sli>1 Medium Onion, Diced</sli>
+                <sli>2 - 3 Tbsp Extra Virgin Olive Oil,</sli>
+                <sli>2 Tins Diced Tomatoes/ 10 Diced Tomatoes,</sli>
+                <sli>175ml Red Wine,</sli>
+                <sli>Handful Fresh Basil, Finely Chopped, If dried 1 Tbsp,</sli>
+                <sli>Handful Fresh Oregano, Finely Chopped, If dried 1 Tbsp,</sli>
+                <sli>2 Bay leaves,</sli>
+                <sli>2 Tbsp Tomato Puree,</sli>
+            </sl>
+        </prereq>
+        <context>
+            <image href="../../resources/images/italian_tomate_sauce.jpg" id="sauce" width="500"></image>
+            <p>Prepare your sauce as follows:</p>
+            <hazardstatement conkeyref="safety/contamination">
+                <messagepanel>
+                    <typeofhazard></typeofhazard>
+                    <howtoavoid></howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Heat the Olive oil in a Large frying pan/Skillet until very hot.</cmd>
+            </step>
+            <step>
+                <cmd>Add onions and stir until soft and slightly brown.Turn down the heat and add the garlic and Red wine. Leave for 1-2 mins.</cmd>
+            </step>
+            <step>
+                <cmd>Add tomatoes, basil, oregano, and bay leaves, turn the heat down and leave to simmer for approx 5 mins stirring occasionally. If using fresh tomatoes allow them to reduce slowly, this will take approx 20 mins.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Once mixture has simmered add puree and stir in, simmer for a further 5 mins.</cmd>
+            </step>
+            <step>
+                <cmd>Remove from the heat and cool. Sauce can be refrigerated for use later on, If using for Pizza topping use a blender until smooth and spread on pizza using the back of a spoon. If using for bolognese, brown mince and add when ready.
+                </cmd>
+            </step>
+           
+        </steps>
+    </taskbody>
+</task>

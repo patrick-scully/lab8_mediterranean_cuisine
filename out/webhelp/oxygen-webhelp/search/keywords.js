@@ -1,0 +1,10 @@
+var keywords=[{w:"Greece",p:["p0"]},{w:"Italy",p:["p1"]},{w:"What",p:["p2"]},{w:"is",p:["p2"]},{w:"Mediterranean",p:["p2","p3"]},{w:"Cuisine",p:["p2","p3"]},{w:"style?",p:["p2"]},{w:"Countries",p:["p3"]},{w:"with",p:["p3"]},{w:"Making",p:["p4","p5","p7"]},{w:"Italian",p:["p4","p5"]},{w:"Meatballs",p:["p4"]},{w:"Tomato",p:["p5"]},{w:"Sauce",p:["p5"]},{w:"Greek",p:["p6","p7"]},{w:"Salad",p:["p6"]},{w:"Yoghurt",p:["p7"]}];
+var ph={};
+ph["p0"]=[0];
+ph["p1"]=[1];
+ph["p2"]=[2, 3, 4, 5, 6];
+ph["p3"]=[7, 8, 4, 5];
+ph["p4"]=[9, 10, 11];
+ph["p5"]=[9, 10, 12, 13];
+ph["p6"]=[14, 15];
+ph["p7"]=[9, 14, 16];

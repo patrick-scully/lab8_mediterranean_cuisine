@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_lxt_4jr_rjb">
+     
+    <glossentry  id="B">
+        <glossterm >Broccoli Rabe</glossterm>
+        <glossdef>To be Italian is to appreciate dark leafy vegetables, especially this earthily bitter brassica that pairs beautifully with bold ingredients like sausage, anchovy and hot pepper. Like other cabbage family members it's a nutrition superstar, providing plenty of vitamin C, potassium, calcium and fiber as well as carotenoids and cancer-fighting indoles and isothiocyanates.</glossdef>
+    </glossentry>
+    <glossentry id="C">
+       <glossterm>Couscous</glossterm>
+        <glossdef>Traditionally unrefined grains (pasta, bread, barley, couscous) are the base of most Mediterranean diets. Leaving the grains whole lowers their glycemic index, so they are digested more slowly and produce gentler rises in glucose and insulin than refined versions; they also retain all their fiber, magnesium, vitamin E and other antioxidant phytochemicals. Diets rich in whole grains may protect against heart disease, diabetes and other chronic diseases.</glossdef>
+    </glossentry>
+     <glossentry id="E">
+        <glossterm>Eggplant</glossterm>
+        <glossdef>Beloved for its toothsome texture and neutral flavor that takes up sauces beautifully, eggplant gives meaty satisfaction to a cuisine in which meat traditionally made rare appearances. While not a nutritional powerhouse, eggplant contains some fiber and potassium; chlorogenic acid, a compound concentrated in eggplant skin, may have antiviral and cancer-fighting properties.</glossdef>
+    </glossentry>
+    <glossentry id="H">
+        <glossterm>Hazelnuts</glossterm>
+        <glossdef>Nut trees are almost as common as olive trees in Italy. Nuts are savored as snacks, ground into sauces and sprinkled on salads. They're loaded with heart-friendly monounsaturated fat; they're also rich sources of protein, fiber, vitamin E, folate, calcium and magnesium. Nut protein is also high in arginine, an amino acid that helps maintain healthy blood vessels.</glossdef>
+    </glossentry>
+    <glossentry id="O">
+        <glossterm>Olive Oil</glossterm>
+        <glossdef>Prized since antiquity (original Olympic winners were awarded jugs of it), olive oil is imperative in Mediterranean cookery, especially when it comes to preparing vegetables. Rich in monounsaturated fat and (in extra-virgin types) antioxidant polyphenols; many believe its wide use throughout the Mediterranean explains much of that region's low heart disease rates.</glossdef>
+    </glossentry>
+    <glossentry id="P">
+        <glossterm>Peppers</glossterm>
+        <glossdef>Fresh, roasted or dried and ground into complex sauces and pastes, peppers add color to Mediterranean dishes. And good nutrition: all types are rich in vitamins A and C, fiber, folate, beta carotene and vitamin K. Red peppers also deliver lycopene, as well as lutein and zeaxanthin-protective against macular degeneration.</glossdef>
+    </glossentry>
+    <glossentry id="S">
+        <glossterm>Shrimp</glossterm>
+        <glossdef>Wherever Mediterraneans live close to the sea, seafood is a staple protein in their diets; any and all kinds of shellfish and fish are celebrated, often several in the same dish. While fattier types like tuna supply heart-healthy omega-3 fatty acids, lean specimens like shrimp, squid and sea bass provide ample protein, niacin and selenium.</glossdef>
+    </glossentry>
+    <glossentry id="T">
+        <glossterm>Tomatoes</glossterm>
+        <glossdef>It's hard to believe these now-ubiquitous orbs weren't native to the Mediterranean region (grazie, Columbus); they're staples in every cook's larder, fresh, canned and in paste form. Tomatoes are packed with vitamin C and lycopene, a heart-protective antioxidant that may also help prevent some cancers (particularly prostate). Plus they're versatile enough to enjoy every day.</glossdef>
+    </glossentry>
+   
+</glossgroup>
